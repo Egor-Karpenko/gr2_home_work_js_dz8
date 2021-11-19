@@ -8,6 +8,7 @@ function paint_square_blue() {
     blue_square.style.background = '#0000FF';
     return blue_square;
 
+
 }
 setInterval(paint_square_blue, 3000, 10);
 
